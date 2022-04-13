@@ -98,8 +98,8 @@ export default function CollectionView({light, vibrant, dark}) {
     }
     
     if(CONFIG.TEMPLATE.timeseries_chart){
-      // Call endpoint with 7 day parameters as default for graph
-      handleGraph(7)
+      // Call endpoint with 30 day parameters as default for graph
+      handleGraph(30)
     }
 
     setLoader(false)
