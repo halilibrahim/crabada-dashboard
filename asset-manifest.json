@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/crabada-dashboard/static/css/main.70f90df8.chunk.css",
-    "main.js": "/crabada-dashboard/static/js/main.abae5067.chunk.js",
-    "main.js.map": "/crabada-dashboard/static/js/main.abae5067.chunk.js.map",
+    "main.js": "/crabada-dashboard/static/js/main.8895e424.chunk.js",
+    "main.js.map": "/crabada-dashboard/static/js/main.8895e424.chunk.js.map",
     "runtime-main.js": "/crabada-dashboard/static/js/runtime-main.1b45857f.js",
     "runtime-main.js.map": "/crabada-dashboard/static/js/runtime-main.1b45857f.js.map",
     "static/js/2.af853c9b.chunk.js": "/crabada-dashboard/static/js/2.af853c9b.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.1b45857f.js",
     "static/js/2.af853c9b.chunk.js",
     "static/css/main.70f90df8.chunk.css",
-    "static/js/main.abae5067.chunk.js"
+    "static/js/main.8895e424.chunk.js"
   ]
 }
